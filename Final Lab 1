@@ -1,0 +1,15 @@
+Bài tập 1: Viết chương trình nhập vào 1 số n và tính tổng sau:	
+	T = 1 + 2 + 3 + ... + n
+Yêu cầu sử dụng hàm tính tổng sau 
+int tong (int *a, int *b: trả về tổng của 2 số mà 2 con trỏ a và b đang trỏ tới
+Bài tập 2: Viết chương trình nhập vào một số n. Khởi tạo và nhập một mảng n số nguyên. Sau đó sắp xếp mảng đã cho theo thứ tự giảm dần. Yêu cầu sử dụng 2 hàm sau:
+
+void swap (int *a, int *b): : hoán đổi 2 giá trị của 2 con trỏ a và b đang trỏ tới
+void sap_xep(int *a, int length) : sắp xếp mảng do con trỏ a trỏ tới và có chiều dài là length.
+Bài tập 3: Nhập – Xuất mảng
+- Đổi chỗ vị trí min max trong mảng
+- Tìm vị trí của 1 phần tử bất kỳ trong mảng
+- Sắp xếp mảng tăng/ giảm dần
+
+
+
